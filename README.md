@@ -17,7 +17,7 @@ To get started with our website, follow these simple steps:
    ```bash
     npm start or npm run dev
  
- 4. ** In browser **
+ 4. **In browser**
     Visit http://localhost:3000
 
 ## Contributors
