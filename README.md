@@ -24,7 +24,7 @@ To get started with our website, follow these simple steps:
 
 We would like to thank all the contributors who have helped in making this project better!
 
-- **[Lucky Nirankari](https://github.com/BhayanakAatma)** - *Devloped backend*
-- **[Mohd. Salim Shaik ](https://github.com/Salim-333)** - *Devloped frontend*
+- **[Lucky Nirankari](https://github.com/BhayanakAatma)** - *Devloped backend and Database*
+- **[Mohd. Salim Shaik ](https://github.com/Salim-333)** - *Devloped frontend and API implementation*
 
 
