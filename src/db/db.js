@@ -8,3 +8,4 @@ mongoose.connect("mongodb+srv://register:dt3CSpy0YBxrFf2y@travl.xgnwl.mongodb.ne
 }).catch((e)=>{
     console.log(`no connection`);
 });
+
